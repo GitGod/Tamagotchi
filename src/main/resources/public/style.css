@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400);
+body {
+
+}
+#currentTime {
+    font-size: 2em;
+    text-align: right;
+    font-family: 'Oswald';
+    font-weight: 2;
+    color: #f05b19;
+}
